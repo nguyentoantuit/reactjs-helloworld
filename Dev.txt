@@ -1,2 +1,6 @@
 Dev branch
+<<<<<<< HEAD
 Update by hotfix
+=======
+Update by dev branch
+>>>>>>> 8cacc692375a28e12d98091687863cf0e168401f
